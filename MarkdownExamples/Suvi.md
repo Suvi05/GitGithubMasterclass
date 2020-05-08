@@ -1,3 +1,7 @@
+Android | IOS | Windows
+--------| ----| --------
+App for Android | App for IOS | App for Windows
+
 This is just a __file__ for **practice**.We I will _soon_ create something *Productive* here.
 
 - [ ] Today
